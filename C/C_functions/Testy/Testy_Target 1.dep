@@ -1,0 +1,19 @@
+Dependencies for Project 'Testy', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x51C80D6E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.c)(0x60ABCE22)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Users\User\Desktop\PPSW\ProgrObowiazkowy\Testy\LancuchyZnakowe.h)(0x60AB7201)
+I (C:\Users\User\Desktop\PPSW\ProgrObowiazkowy\Testy\LancuchyZnakoweKonwersje.h)(0x60AB7201)
+I (C:\Users\User\Desktop\PPSW\ProgrObowiazkowy\Testy\Dekodowanie.h)(0x60AB729C)
+F (.\LancuchyZnakoweKonwersje.c)(0x60AB729C)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\lancuchyznakowekonwersje.o --omf_browse .\lancuchyznakowekonwersje.crf --depend .\lancuchyznakowekonwersje.d)
+I (C:\Users\User\Desktop\PPSW\ProgrObowiazkowy\Testy\LancuchyZnakowe.h)(0x60AB7201)
+I (C:\Users\User\Desktop\PPSW\ProgrObowiazkowy\Testy\LancuchyZnakoweKonwersje.h)(0x60AB7201)
+I (C:\Users\User\Desktop\PPSW\ProgrObowiazkowy\Testy\Dekodowanie.h)(0x60AB729C)
+F (.\LancuchyZnakowe.c)(0x60AB729C)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\lancuchyznakowe.o --omf_browse .\lancuchyznakowe.crf --depend .\lancuchyznakowe.d)
+I (C:\Users\User\Desktop\PPSW\ProgrObowiazkowy\Testy\LancuchyZnakowe.h)(0x60AB7201)
+F (.\Dekodowanie.c)(0x60AB729C)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\dekodowanie.o --omf_browse .\dekodowanie.crf --depend .\dekodowanie.d)
+I (C:\Users\User\Desktop\PPSW\ProgrObowiazkowy\Testy\LancuchyZnakowe.h)(0x60AB7201)
+I (C:\Users\User\Desktop\PPSW\ProgrObowiazkowy\Testy\LancuchyZnakoweKonwersje.h)(0x60AB7201)
+I (C:\Users\User\Desktop\PPSW\ProgrObowiazkowy\Testy\Dekodowanie.h)(0x60AB729C)
+F (.\LancuchyZnakoweKonwersje.h)(0x60AB7201)()
+F (.\LancuchyZnakowe.h)(0x60AB7201)()
+F (.\Dekodowanie.h)(0x60AB729C)()

@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\User\Desktop\PN_Lab1\ARM\cw_9\cw_9.uvproj
+Project File Date:  11/15/2021
+
+<h2>Output:</h2>
+Build target 'Target 1'
+linking...
+.\cw_9.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=568 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\cw_9.axf" - 0 Errors, 1 Warning(s).

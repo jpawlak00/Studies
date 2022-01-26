@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\Debug/cw_35.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_35.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_35.map</FILE>
+  <FILE>cw_35.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>40</LINE></MainLoop>
+  <ENABLE_NR_0><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>94</LINE></ENABLE_NR_0>
+  <DIGIT_0_ON><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>62</LINE></DIGIT_0_ON>
+  <DelayInMs><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>140</LINE></DelayInMs>
+  <DISABLE_ALL_DISPLAYS><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>83</LINE></DISABLE_ALL_DISPLAYS>
+  <ENABLE_NR_1><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>102</LINE></ENABLE_NR_1>
+  <DIGIT_1_ON><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>67</LINE></DIGIT_1_ON>
+  <ENABLE_NR_2><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>110</LINE></ENABLE_NR_2>
+  <DIGIT_2_ON><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>72</LINE></DIGIT_2_ON>
+  <ENABLE_NR_3><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>118</LINE></ENABLE_NR_3>
+  <DIGIT_3_ON><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>77</LINE></DIGIT_3_ON>
+  <DelayOneMs><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>126</LINE></DelayOneMs>
+  <LoopDOM><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>131</LINE></LoopDOM>
+  <EndDOM><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>135</LINE></EndDOM>
+  <Jump><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>148</LINE></Jump>
+  <Loop1><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>145</LINE></Loop1>
+  <End><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_35\main.asm</FILE><LINE>150</LINE></End>
+ </LABELS>
+</ASSEMBLER_INFO>

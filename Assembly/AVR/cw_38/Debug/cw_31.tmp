@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\Debug/cw_31.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_31.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_31.map</FILE>
+  <FILE>cw_31.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <ENABLE_NR_0><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>82</LINE></ENABLE_NR_0>
+  <MainLoop><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>21</LINE></MainLoop>
+  <DISP_0><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>43</LINE></DISP_0>
+  <DelayInMs><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>128</LINE></DelayInMs>
+  <DISABLE_ALL><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>71</LINE></DISABLE_ALL>
+  <ENABLE_NR_1><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>90</LINE></ENABLE_NR_1>
+  <ENABLE_NR_2><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>98</LINE></ENABLE_NR_2>
+  <ENABLE_NR_3><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>106</LINE></ENABLE_NR_3>
+  <DISP_1><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>57</LINE></DISP_1>
+  <DelayOneMs><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>114</LINE></DelayOneMs>
+  <LoopDOM><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>119</LINE></LoopDOM>
+  <EndDOM><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>123</LINE></EndDOM>
+  <Jump><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>136</LINE></Jump>
+  <Loop1><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>133</LINE></Loop1>
+  <End><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_31\main.asm</FILE><LINE>138</LINE></End>
+ </LABELS>
+</ASSEMBLER_INFO>

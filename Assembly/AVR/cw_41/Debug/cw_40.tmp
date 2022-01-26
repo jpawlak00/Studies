@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\Debug/cw_40.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_40.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_40.map</FILE>
+  <FILE>cw_40.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>80</LINE></MainLoop>
+  <ENABLE_NR_3><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>191</LINE></ENABLE_NR_3>
+  <DIGIT_3_ON><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>144</LINE></DIGIT_3_ON>
+  <DelayInMs><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>213</LINE></DelayInMs>
+  <DISABLE_ALL_DISPLAYS><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>156</LINE></DISABLE_ALL_DISPLAYS>
+  <End><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>223</LINE></End>
+  <ENABLE_NR_2><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>183</LINE></ENABLE_NR_2>
+  <DIGIT_2_ON><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>134</LINE></DIGIT_2_ON>
+  <ENABLE_NR_1><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>175</LINE></ENABLE_NR_1>
+  <DIGIT_1_ON><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>124</LINE></DIGIT_1_ON>
+  <ENABLE_NR_0><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>167</LINE></ENABLE_NR_0>
+  <DIGIT_0_ON><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>114</LINE></DIGIT_0_ON>
+  <DigitNotCleared><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>93</LINE></DigitNotCleared>
+  <DigitTo7segCode><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>97</LINE></DigitTo7segCode>
+  <Table><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>110</LINE></Table>
+  <DelayOneMs><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>199</LINE></DelayOneMs>
+  <LoopDOM><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>204</LINE></LoopDOM>
+  <EndDOM><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>208</LINE></EndDOM>
+  <Jump><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>221</LINE></Jump>
+  <Loop1><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_40\main.asm</FILE><LINE>218</LINE></Loop1>
+ </LABELS>
+</ASSEMBLER_INFO>

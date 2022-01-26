@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\Debug/cw_49.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_49.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_49.map</FILE>
+  <FILE>cw_49.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <_main><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>87</LINE></_main>
+  <_timer_isr><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>54</LINE></_timer_isr>
+  <_INT0_isr><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>35</LINE></_INT0_isr>
+  <NumberToDigits><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>171</LINE></NumberToDigits>
+  <MainLoop><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>134</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>141</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>155</LINE></DelayInMs>
+  <Table><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>153</LINE></Table>
+  <Jump><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>165</LINE></Jump>
+  <Loop1><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>162</LINE></Loop1>
+  <End><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>167</LINE></End>
+  <DelayOneMS><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>237</LINE></DelayOneMS>
+  <Divide><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>212</LINE></Divide>
+  <Loop><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>221</LINE></Loop>
+  <endLoop><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>230</LINE></endLoop>
+  <SRODEK><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>225</LINE></SRODEK>
+  <LoopDOM><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>242</LINE></LoopDOM>
+  <EndDOM><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\cw_49\main.asm</FILE><LINE>246</LINE></EndDOM>
+ </LABELS>
+</ASSEMBLER_INFO>

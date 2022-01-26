@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\Debug/cw_50_kol.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_50_kol.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_50_kol.map</FILE>
+  <FILE>cw_50_kol.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <_main><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>95</LINE></_main>
+  <_Timer_ISR><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>65</LINE></_Timer_ISR>
+  <_ExtInt_ISR><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>48</LINE></_ExtInt_ISR>
+  <_NumberToDigits><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>145</LINE></_NumberToDigits>
+  <MainLoop><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>124</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>236</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>252</LINE></DelayInMs>
+  <_Divide><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>210</LINE></_Divide>
+  <L4><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>216</LINE></L4>
+  <L5><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>224</LINE></L5>
+  <Table><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>234</LINE></Table>
+  <L2><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>258</LINE></L2>
+  <L3><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>263</LINE></L3>
+  <OneMsLoop><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>271</LINE></OneMsLoop>
+  <L1><FILE>C:\Users\User\Desktop\PN_Lab1\AVR\50_kol_skeleton\main.asm</FILE><LINE>277</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\Debug/55.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>55.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>55.map</FILE>
+  <FILE>55.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <_main><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>93</LINE></_main>
+  <_Timer_ISR><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>69</LINE></_Timer_ISR>
+  <_ExtInt_ISR><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>50</LINE></_ExtInt_ISR>
+  <_NumberToDigits><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>142</LINE></_NumberToDigits>
+  <MainLoop><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>121</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>232</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>251</LINE></DelayInMs>
+  <_Divide><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>205</LINE></_Divide>
+  <Loop2><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>209</LINE></Loop2>
+  <End2><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>219</LINE></End2>
+  <Table><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>230</LINE></Table>
+  <Loop1><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>257</LINE></Loop1>
+  <EndLoop><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>262</LINE></EndLoop>
+  <OneMsLoop><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>269</LINE></OneMsLoop>
+  <L1><FILE>C:\Users\User\Desktop\PN\PN_Lab1\AVR\55\main.asm</FILE><LINE>275</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
